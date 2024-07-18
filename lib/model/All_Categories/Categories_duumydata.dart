@@ -1,0 +1,103 @@
+import 'package:food_delivery_new_project/helpers/all_image.dart';
+import 'package:food_delivery_new_project/model/All_Categories/All_Categories_model.dart';
+
+class Categories_data_Helper {
+  static var CategoriescallList = [
+    All_Categories_model(
+        image: Getimage.pizza,
+        foodname: "Pizza",
+        id: "1",
+        startingprice: "\$10",
+        pricetxt: "Starting",
+        isDeliveryFree: true,
+        rating: "4",
+        diliverycharge: "200",
+        discription:
+            "Prosciutto e funghi is a pizza variety that is topped with tomato sauce.",
+        ingredients: [
+          {"img": Getimage.Salt, "title": "Salt"},
+          {"img": Getimage.Chicken, "title": "Chicken"},
+          {"img": Getimage.Onion, "title": "Onion"},
+          {"img": Getimage.garlic, "title": "garlic"},
+          {"img": Getimage.pepper, "title": "pepper"},
+          {"img": Getimage.Ginger, "title": "Ginger"},
+          {"img": Getimage.Broccoli, "title": "Broccoli"},
+          {"img": Getimage.Orange, "title": "Orange"},
+          {"img": Getimage.walnut, "title": "walnut"},
+        ],
+        mints: "20",
+        size: ["10", "14", "19"]),
+    All_Categories_model(
+        isDeliveryFree: true,
+        rating: "4",
+        diliverycharge: "200",
+        discription:
+            "Prosciutto e funghi is a pizza variety that is topped with tomato sauce.",
+        ingredients: [
+          {"img": Getimage.Salt, "title": "Salt"},
+          {"img": Getimage.Chicken, "title": "Chicken"},
+          {"img": Getimage.Onion, "title": "Onion"},
+          {"img": Getimage.garlic, "title": "garlic"},
+          {"img": Getimage.pepper, "title": "pepper"},
+          {"img": Getimage.Ginger, "title": "Ginger"},
+          {"img": Getimage.Broccoli, "title": "Broccoli"},
+          {"img": Getimage.Orange, "title": "Orange"},
+          {"img": Getimage.walnut, "title": "walnut"},
+        ],
+        mints: "20",
+        size: ["10", "14", "19"],
+        image: Getimage.burger,
+        foodname: "Burger",
+        id: "1",
+        startingprice: "\$15",
+        pricetxt: "Starting"),
+    All_Categories_model(
+        isDeliveryFree: true,
+        rating: "4",
+        diliverycharge: "200",
+        discription:
+            "Prosciutto e funghi is a pizza variety that is topped with tomato sauce.",
+        ingredients: [
+          {"img": Getimage.Salt, "title": "Salt"},
+          {"img": Getimage.Chicken, "title": "Chicken"},
+          {"img": Getimage.Onion, "title": "Onion"},
+          {"img": Getimage.garlic, "title": "garlic"},
+          {"img": Getimage.pepper, "title": "pepper"},
+          {"img": Getimage.Ginger, "title": "Ginger"},
+          {"img": Getimage.Broccoli, "title": "Broccoli"},
+          {"img": Getimage.Orange, "title": "Orange"},
+          {"img": Getimage.walnut, "title": "walnut"},
+        ],
+        mints: "20",
+        size: ["10", "14", "19"],
+        image: Getimage.burger2,
+        foodname: "Pizza",
+        id: "1",
+        startingprice: "\$20",
+        pricetxt: "Starting"),
+    All_Categories_model(
+        isDeliveryFree: true,
+        rating: "4",
+        diliverycharge: "200",
+        discription:
+            "Prosciutto e funghi is a pizza variety that is topped with tomato sauce.",
+        ingredients: [
+          {"img": Getimage.Salt, "title": "Salt"},
+          {"img": Getimage.Chicken, "title": "Chicken"},
+          {"img": Getimage.Onion, "title": "Onion"},
+          {"img": Getimage.garlic, "title": "garlic"},
+          {"img": Getimage.pepper, "title": "pepper"},
+          {"img": Getimage.Ginger, "title": "Ginger"},
+          {"img": Getimage.Broccoli, "title": "Broccoli"},
+          {"img": Getimage.Orange, "title": "Orange"},
+          {"img": Getimage.walnut, "title": "walnut"},
+        ],
+        mints: "20",
+        size: ["10", "14", "19"],
+        image: Getimage.pizza,
+        foodname: "Pizza",
+        id: "1",
+        startingprice: "\$50",
+        pricetxt: "Starting"),
+  ];
+}

@@ -1,0 +1,33 @@
+class Getimage {
+  static const slidersimg1 = "assets/images/slidersimg1.png";
+  static const slidersimg2 = "assets/images/slidersimg2.png";
+  static const slidersimg3 = "assets/images/slidersimg3.png";
+  static const facebookimg = "assets/images/facebookimg.png";
+  static const googleimg = "assets/images/googleimg.png";
+  static const trackoders = "assets/images/trackoders.png";
+  static const masterscard = "assets/images/masterscard.png";
+  static const pizza = "assets/images/europeanpizza.png";
+  static const paypal = "assets/images/paypal.png";
+  static const congratulations = "assets/images/congratulations.png";
+  static const Cash = "assets/images/Cash.png";
+  static const visa = "assets/images/visa.png";
+  static const card = "assets/images/card.png";
+  static const burger = "assets/images/buffalopizza.png";
+  static const burger2 = "assets/images/smokinburger.png";
+  static const dryfruit = "assets/images/dryfruit.png";
+  static const fruitimg = "assets/images/fruitimg.png";
+  static const PansiRestaurantimg = "assets/images/PansiRestaurantimg.png";
+  static const Spicyrestaurantimg = "assets/images/Spicyrestaurantimg.png";
+  static const CafenioCoffeeClubimg = "assets/images/CafenioCoffeeClubimg.png";
+  static const burgerbistro = "assets/images/bullseyeburgers.png";
+  static const profile = "assets/images/Profile.png";
+  static const walnut = "assets/images/walnut.png";
+  static const Salt = "assets/images/Salt.png";
+  static const pepper = "assets/images/pepper.png";
+  static const Onion = "assets/images/Onion.png";
+  static const Ginger = "assets/images/Ginger.png";
+  static const garlic = "assets/images/garlic.png";
+  static const Broccoli = "assets/images/Broccoli.png";
+  static const Chicken = "assets/images/Chicken.png";
+  static const Orange = "assets/images/Orange.png";
+}
